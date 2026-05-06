@@ -36,7 +36,7 @@ For the full publication list (30+ papers), see my [Google Scholar profile](http
 
 ## Currently
 
-Senior Control & AI Engineer at **Drive System Design**, working on ML-driven control and diagnostics for electrified powertrains. Outside of work, I'm building open-source Python implementations of my published methods ; repos coming soon.
+Senior Control & AI Engineer at **Drive System Design**, working on control systems and AI/ML-based applications for electrified powertrains. Outside of work, I'm building open-source Python implementations of my published methods ; repos coming soon.
 
 ---
 
