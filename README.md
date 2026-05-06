@@ -22,12 +22,14 @@ AI-driven Control Engineer & Researcher (Ph.D.) working at the intersection of *
   *Online learning under measurement noise, with robotics and vehicle dynamics case studies.*
 
 - **Discrete-Time Nonlinear System Identification via Fixed-Time Concurrent Learning** ; *IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024*.
+  [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10798985)
   *Identification of nonlinear discrete-time systems with provable fixed-time convergence.*
 
 - **Data-driven Thermal Modeling for Electrically Excited Synchronous Motors ; A Supervised Machine Learning Approach** ; *IEEE Transportation Electrification Conference & Expo (ITEC), 2024*.
   *Supervised ML for sensorless thermal estimation in EV traction motors.*
 
 - **Fixed-Time System Identification Using Concurrent Learning** ; *IEEE Transactions on Neural Networks and Learning Systems, 2021*.
+  [📄 Paper](https://ieeexplore.ieee.org/abstract/document/9614663)
   *Concurrent-learning-based system identification with fixed-time convergence guarantees.*
 
 For the full publication list (30+ papers), see my [Google Scholar profile](https://scholar.google.com/citations?user=kocqXnAAAAAJ).
