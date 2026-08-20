@@ -17,6 +17,10 @@ AI-driven Control Engineer & Researcher (Ph.D.) working at the intersection of *
 
 ## Selected publications & code
 
+- **A Hybrid End-to-End and Modular Control Architecture Toward Safe Vehicle Lateral Control** — *arXiv preprint, 2026*.
+  [📄 arXiv](https://arxiv.org/abs/2608.17258) · [💻 Code](https://github.com/FarzanehTatari/hybrid-sac-mpc-lateral-control)
+  *Blends a Soft Actor-Critic policy with constrained MPC for CAV lateral control through a single monotone coefficient.*
+  
 - **Deep Learning-Based Rotor Temperature Estimation for Rare-Earth-Free Motors** — *NDIA GVSETS, 2026*.
   [📄 Paper](https://ndia-mich.org/2026%20tech%20papers/AAI/10%2020%20AM%20-%20GVSETS_paper_DL_rotor_temp.pdf) · [💻 Related Code](https://github.com/FarzanehTatari/motor-thermal-deeplearning)
   *GRU and LSTM virtual sensors for rotor temperature estimation in a 190 kW EESM. Open-source implementation on public PMSM data.*
