@@ -45,7 +45,7 @@ For the full publication list (30+ papers), see my [Google Scholar profile](http
 
 ## Currently
 
-Software Architecture Engineer at **Stellantis**, working on software architecture for electrified propulsion. Previously Senior Control & AI Engineer at Drive System Design.
+Control Software Architect at **Stellantis**, working on software architecture for electrified propulsion. Previously Senior Control & AI Engineer at Drive System Design.
 
 Outside of work I build open-source implementations of control and learning methods, and write about them at [farzanehtatari.github.io](https://farzanehtatari.github.io).
 
