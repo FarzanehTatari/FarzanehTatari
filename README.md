@@ -2,7 +2,7 @@
 
 AI-driven Control Engineer & Researcher (Ph.D.) working at the intersection of **machine learning, reinforcement learning, and control theory** — applied to automotive systems, robotics, and electrified powertrains.
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=kocqXnAAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/farzaneh-tatari-75296a115/) · ✉️ fa_tatari@yahoo.com
+🎓 [Google Scholar](https://scholar.google.com/citations?user=kocqXnAAAAAJ) · 🌐 [Website](https://farzanehtatari.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/farzaneh-tatari-75296a115/) · ✉️ fa_tatari@yahoo.com
 
 ---
 
@@ -45,7 +45,9 @@ For the full publication list (30+ papers), see my [Google Scholar profile](http
 
 ## Currently
 
-Senior Control & AI Engineer at **Drive System Design**, working on ML-driven control and diagnostics for electrified powertrains. Outside of work, I'm building open-source Python implementations of my published methods — repos coming soon.
+Software Architecture Engineer at **Stellantis**, working on software architecture for electrified propulsion. Previously Senior Control & AI Engineer at Drive System Design.
+
+Outside of work I build open-source implementations of control and learning methods, and write about them at [farzanehtatari.github.io](https://farzanehtatari.github.io).
 
 ---
 
