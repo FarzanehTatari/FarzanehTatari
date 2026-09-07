@@ -2,7 +2,7 @@
 
 AI-driven Control Engineer & Researcher (Ph.D.) working at the intersection of **machine learning, reinforcement learning, and control theory** — applied to automotive systems, robotics, and electrified powertrains.
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=kocqXnAAAAAJ) · 🌐 [Website](https://farzanehtatari.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/farzaneh-tatari-75296a115/) · ✉️ fa_tatari@yahoo.com
+🎓 [Google Scholar](https://scholar.google.com/citations?user=kocqXnAAAAAJ) · 🌐 [Website](https://farzanehtatari.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/farzaneh-tatari-75296a115/) 
 
 ---
 
