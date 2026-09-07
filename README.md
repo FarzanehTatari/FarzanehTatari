@@ -53,7 +53,6 @@ Outside of work I build open-source implementations of control and learning meth
 
 ## Reach out
 
-- ✉️ fa_tatari@yahoo.com
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=kocqXnAAAAAJ)
 - 💼 [LinkedIn](https://www.linkedin.com/in/farzaneh-tatari-75296a115/)
 
