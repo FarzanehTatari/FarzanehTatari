@@ -50,6 +50,10 @@ Control Software Architect at **Stellantis**, working on software architecture f
 Outside of work I build open-source implementations of control and learning methods, and write about them at [farzanehtatari.github.io](https://farzanehtatari.github.io).
 
 ---
+Outside of work I build open-source implementations of control and learning
+methods — most recently [doc-agent](https://github.com/FarzanehTatari/doc-agent),
+an AI documentation generator for Simulink control models — and write about
+them at [farzanehtatari.github.io](https://farzanehtatari.github.io).
 
 ## Reach out
 
