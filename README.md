@@ -47,7 +47,10 @@ For the full publication list (30+ papers), see my [Google Scholar profile](http
 
 Control Software Architect at **Stellantis**, working on software architecture for electrified propulsion. Previously Senior Control & AI Engineer at Drive System Design.
 
-Outside of work I build open-source implementations of control and learning methods — most recently [doc-agent](https://github.com/FarzanehTatari/doc-agent), an AI documentation generator for Simulink control models — and write about them at [farzanehtatari.github.io](https://farzanehtatari.github.io). 
+Outside of work I build open-source tools for control and learning, and write about them at [farzanehtatari.github.io](https://farzanehtatari.github.io). Most recent:
+
+- [vehicle-dynamics-python](https://github.com/FarzanehTatari/vehicle-dynamics-python): tested single-track vehicle models for MPC and reinforcement learning
+- [doc-agent](https://github.com/FarzanehTatari/doc-agent): an AI documentation generator for Simulink control models
 
 ## Reach out
 
